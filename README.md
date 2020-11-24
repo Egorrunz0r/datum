@@ -1,4 +1,5 @@
-# Инициализировать проект: npm i
-Запускаем сборку webpack (папка 'dist') $npx webpack
+#Installation:
+Run npm install.
 
-очистить объекты на карте - в браузере localStorage.clear()
+Usage:
+Run npx webpack
