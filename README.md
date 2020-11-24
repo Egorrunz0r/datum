@@ -1,3 +1,3 @@
 # Инициализировать проект: npm i
-Запускаем сборку webpack (папка 'dist') #npx webpack
+Запускаем сборку webpack (папка 'dist') $npx webpack
 
